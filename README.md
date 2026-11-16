@@ -1,2 +1,0 @@
-# SSLMS
-Final Year Project
